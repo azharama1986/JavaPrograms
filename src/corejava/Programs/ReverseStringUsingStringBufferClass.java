@@ -3,7 +3,7 @@ package corejava.Programs;
 public class ReverseStringUsingStringBufferClass {
 	
 	/***
-         @Author:Azharuddin Khan
+         @Author:Azharuddin K
          @Description: This program is used to Reverse a input string using stringbuffer class reverse Method.
          
          @return type is StringBuffer
